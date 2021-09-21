@@ -1,0 +1,2 @@
+# kvadro
+solving quadratic equation
