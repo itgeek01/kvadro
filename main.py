@@ -17,3 +17,4 @@ else:
     x2 = (-b - discriminant ** 0.5) / (2 * a)
     print('x₁ = ' + str(x1))
     print('x₂ = ' + str(x2))
+    #blabla
